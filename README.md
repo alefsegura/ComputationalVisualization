@@ -4,7 +4,7 @@ This project was made in the context of the SCC0252 - Computer Visualization cla
 
 ## Steps to reproduce 
 
-- Make sure you have Python installed.
+- Make sure you have Python3 installed.
 
 - Upgrade the pip package manager and install iPython and Jupyter.
 
@@ -14,7 +14,7 @@ This project was made in the context of the SCC0252 - Computer Visualization cla
 
 - Install all the data manipulation libraries.
 
-`pip install numpy pandas seaborn sklearn matplotlib`
+`pip3 install numpy pandas seaborn sklearn matplotlib`
 
 - Run the Jupyter notebook
 
